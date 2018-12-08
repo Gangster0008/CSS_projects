@@ -15,7 +15,7 @@ p{
   padding: 0;
   font-size: 10px;
   line-height: 10px;
-  background: url(image.jpg) no-repeat center;
+  background: url(image.jpg) no-repeat center; //add a image.jpg to your folder or provide the path of image
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
